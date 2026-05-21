@@ -21,9 +21,7 @@ Read the documents in this order:
    [TargetReader AI](docs/03_TargetReader_AI_Literature_Assistant.md),
    or [GeneShift](docs/04_GeneShift_Mini_Gene_Expression_Explorer.md)
 3. Read [BioBridge AI Portfolio Integration](docs/05_BioBridge_AI_Portfolio_Integration.md) for the final showcase direction
-4. Use the shared guidance docs as cross-project references:
-   [Student-Friendly and Industry-Inspired Engagement Layer](docs/06_Student_Friendly_and_Industry_Inspired_Engagement_Layer.md)
-   and [Academic Life Science and Biochemistry Support Layer](docs/07_Academic_Life_Science_and_Biochemistry_Support_Layer.md)
+4. Use [Academic Life Science and Biochemistry Support Layer](docs/07_Academic_Life_Science_and_Biochemistry_Support_Layer.md) as a shared cross-project reference
 
 ## Document Index
 
@@ -39,8 +37,6 @@ Read the documents in this order:
   Simplified gene expression comparison project with fold-change interpretation and academic support ideas.
 - [docs/05_BioBridge_AI_Portfolio_Integration.md](docs/05_BioBridge_AI_Portfolio_Integration.md)
   Portfolio integration guide for combining the mini-projects into one polished presentation.
-- [docs/06_Student_Friendly_and_Industry_Inspired_Engagement_Layer.md](docs/06_Student_Friendly_and_Industry_Inspired_Engagement_Layer.md)
-  Student-facing framing, mission-based project ideas, tone guidance, and industry-inspired presentation ideas.
 - [docs/07_Academic_Life_Science_and_Biochemistry_Support_Layer.md](docs/07_Academic_Life_Science_and_Biochemistry_Support_Layer.md)
   Academic learning layer covering lab reports, study notes, journal club support, and course-friendly outputs.
 
